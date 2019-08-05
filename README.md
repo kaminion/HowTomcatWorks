@@ -25,7 +25,7 @@ Translate and use the this because is Korean.
   - WAS / SERVER 의 원리 등
   
   // 알면 수월한 것
-  - Java NetWork, Java IO
+  - Java Network, Java IO
   
 # 2. Source List 
   - ex00
